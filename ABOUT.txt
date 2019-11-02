@@ -1,0 +1,14 @@
+		<div class="col-md-3 col-xs-6 team-grids">
+					<div class="thumbnail team-agileits">
+						<img src="images/t4.jpg" class="img-responsive" alt=""/>
+						<div class="w3agile-caption">
+							<h4>Goes Mehak</h4>
+							<p>Designer</p>						
+							<div class="social-icon social-w3lsicon">
+								<a href="#" class="social-button twit"><i class="fa fa-twitter"></i></a>
+								<a href="#" class="social-button fb"><i class="fa fa-facebook"></i></a> 
+								<a href="#" class="social-button in"><i class="fa fa-linkedin"></i></a>  
+							</div>	
+						</div> 
+					</div>
+				</div>

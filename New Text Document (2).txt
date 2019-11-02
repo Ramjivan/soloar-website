@@ -1,0 +1,14 @@
+CODE FOR INDEX
+
+
+
+<div class="footer-btm-agileinfo">
+				<div class="col-md-3 col-xs-3 footer-grid">
+					<h3>Useful Info</h3>
+					<ul>
+						<li><a href="single.html"><i class="glyphicon glyphicon-menu-right"></i>Hendrerit quam</a></li>
+						<li><a href="single.html"><i class="glyphicon glyphicon-menu-right"></i>Amet consectetur </a></li>
+						<li><a href="single.html"><i class="glyphicon glyphicon-menu-right"></i>Iquam hendrerit</a></li>
+						<li><a href="single.html"><i class="glyphicon glyphicon-menu-right"></i>Donec ut lectus </a></li>
+					</ul>
+				</div> 
